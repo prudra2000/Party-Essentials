@@ -1,16 +1,18 @@
-# partyApp
+# Party Essentials
 
-A new Flutter project.
+Party Essentials is a application that combines all you party needs in one place!
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+List of Features:
+- Dice Roller
+ - 4 and 6 Sided Dice
+ - More Comming Soon
+- Stopwatch
+ - Stopwatch that allows for everything for simple Laps
+- Random Generators
+  - Random Name Generator
+  - Randorm Number Generator
+ - Counter
+  - Allows for mulitple counters with the ability to coustimize each counters name
+  - More advancded features coming soon
+ 
