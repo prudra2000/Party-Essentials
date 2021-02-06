@@ -11,7 +11,7 @@ List of Features:
   - Stopwatch that allows for everything for simple Laps
 - Random Generators
   - Random Name Generator
-  - Randorm Number Generator
+  - Random Number Generator
 - Counter
   - Allows for mulitple counters with the ability to coustimize each counters name
   - More advancded features coming soon
